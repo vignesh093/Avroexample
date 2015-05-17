@@ -1,1 +1,1 @@
-# Avroexample
+# A sample avro mpareduce program
